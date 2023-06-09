@@ -1,4 +1,4 @@
-## CRUD app using React.js and net Core Web API
+## CRUD app using React.js and .Net Core Web API
 
 ### Clone
 ```git clone https://github.com/amritkh078/ReactCrud```\
